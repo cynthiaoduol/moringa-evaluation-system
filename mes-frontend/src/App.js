@@ -1,12 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import MainAssessment from './components/MainAssessment'
 
 function App() {
   return (
-    <div className="App">
-    rrr
-    </div>
+
+    <MainAssessment></MainAssessment>
+    
   );
 }
 
